@@ -2,7 +2,7 @@
 This website is created as part of my internship work at The Sparks Foundation for the month of June 2021.
 
 ## Website link
-[website](https://tsf-banks-vishal-2001.herokuapp.com/)
+[TSF-BANKS](https://tsf-banks-vishal-2001.herokuapp.com/)
 
 ## Technologies Used
 
